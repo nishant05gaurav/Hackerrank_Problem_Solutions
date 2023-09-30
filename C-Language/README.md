@@ -10,3 +10,4 @@
 - [Sum Of Digits Of 5 Digit Number](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Sum_of_Digits_of_a_Five_Digit_Number.c)
 - [Sum & Difference Of Two Numbers](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Sum_and_Difference_of_Two_Numbers.c)
 - [Printing Tokens](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Printing_Tokens.c)
+- [Pointer In C](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Pointers_In_C.c)

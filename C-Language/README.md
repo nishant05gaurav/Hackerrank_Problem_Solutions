@@ -11,3 +11,4 @@
 - [Sum & Difference Of Two Numbers](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Sum_and_Difference_of_Two_Numbers.c)
 - [Printing Tokens](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Printing_Tokens.c)
 - [Pointer In C](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Pointers_In_C.c)
+- [Playing With Characters](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Playing_with_Characters.c)

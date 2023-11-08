@@ -13,5 +13,4 @@
 - [Pointer In C](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Pointers_In_C.c)
 - [Playing With Characters](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Playing_with_Characters.c)
 - [Students Marks Sum](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Students_Marks_Sum.c)
-- [Variadic Function](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Variadic_Function.c)
-- 
+- [Variadic Function](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Variadic_Function.c)- 

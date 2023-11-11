@@ -10,13 +10,15 @@ int main()
     int n, *arr, i;
     scanf("%d", &n);
     arr = (int*) malloc(n * sizeof(int));
-    for(i = 0; i < n; i++) {
+    for(i = 0; i < n; i++)
+    {
         scanf("%d", arr + i);
     }
 
     int c ;
     
-    for (int i = 0; i<n/2; i++) {
+    for (int i = 0; i<n/2; i++)
+    {
         c=arr[i];
         arr[i]=arr[n-i-1];
         arr[n-i-1]=c;

@@ -3,6 +3,7 @@
 // Solution:  
 
 
+
 struct document get_document(char* text)
 {
     struct document doc;

@@ -17,3 +17,4 @@
 - [Bitwise Operators](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Bitwise_Operators.c)
 - [Structuring The Document](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Structuring_The_Document.c)
 - [Small Triangle, Large Triangle](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Small_Triangles_Large_Triangles.c)
+- [Students Marks Sum](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Students_Marks_Sum.c)

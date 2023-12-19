@@ -22,3 +22,4 @@
 - [Permutation of Strings](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Permutation_Of_String.c)
 - [Calculate The Nth Term](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Calculate_The_Nth_Term.c)
 - [Boxes Through Tunnel](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Boxes_Through_A_Tunnel.c)
+- [Sorting Array Of Strings](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Sorting_Array_Of_Strings.c)

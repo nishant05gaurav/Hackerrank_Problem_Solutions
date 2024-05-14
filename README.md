@@ -5,6 +5,5 @@
 This repository contains solutions to the **Hackerrank** platform problems in various languages
 
 
-
 - [C Languages](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/tree/main/C-Language)
 - [C++ Languages](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/tree/main/CPP)

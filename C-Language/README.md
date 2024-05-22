@@ -1,5 +1,8 @@
 ## List of the problems and solutions
 
+![image](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/assets/140972654/7db8e770-87fe-42c8-807d-0459f350c34b)
+
+---
 - [Array Reversal](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Array_Reversal.c)
 - [Conditional Statements](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Conditional_Statements_in_C.c)
 - [Digital Frequency](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Digital_Frequency.c)

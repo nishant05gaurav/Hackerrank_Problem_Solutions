@@ -27,5 +27,5 @@
 - [Boxes Through Tunnel](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Boxes_Through_A_Tunnel.c)
 - [Sorting Array Of Strings](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Sorting_Array_Of_Strings.c)
 - [Dynamic Array](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Dynamic_Array.c)
-- [Priniting Patterns Using Loop](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Printing_Patterns_using_Loop.c)
 - [Post Transition](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Post_Transition.c)
+- [Priniting Patterns Using Loop](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/Printing_Patterns_using_Loop.c)
